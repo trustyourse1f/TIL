@@ -1,0 +1,11 @@
+l=[1,2]
+dic={"key1":10,"key1":20}
+print(type(dic))
+print(dic)
+print(l)
+print(l[0])
+print(dic["key1"])
+dic["key1"]=100
+print(dic)
+dic["a"]=10
+print(dic)
