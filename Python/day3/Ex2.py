@@ -1,0 +1,18 @@
+d = {"data":10, 1:20}
+d.update(k = 10)
+d["data"] = 100
+print(d)
+d.update(k=20, key=20)
+print(d)
+d2 = d.fromkeys([1, 2, 3], [1, 2, 3])
+print(d2)
+print(d.get(1))
+print(d)
+print(d.keys())
+print(d)
+print(d.values())
+print(d)
+print(d.items())
+print(d)
+l2 = list(d.items())
+print(l2[0][0])
