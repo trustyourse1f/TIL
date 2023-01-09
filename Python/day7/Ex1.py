@@ -33,20 +33,19 @@ class A:
         x = self.x // other.x
         y = self.x // other.y
         return A(x,y)
-t1 = A()
-t2 = A()
+
 class B:
     x = 0
     y = 0
 
-t1=A(5,4)
-t2=A(5,6)
-print(t1.x,t1.y)
-t1+t2
-print(t1.x,t1.y)
-c1=B()
-c2=B()
-print(c1.x,c1.y)
-c1.x+c2.x
-c1.y+c2.y
-print(c1.x,c1.y)
+t1 = A(5,4)
+t2 = A(5,6)
+print(t1.x, t1.y)
+t1 + t2
+print(t1.x, t1.y)
+c1 = B()
+c2 = B()
+print(c1.x, c1.y)
+c1.x + c2.x
+c1.y + c2.y
+print(c1.x, c1.y)
