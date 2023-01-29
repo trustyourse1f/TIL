@@ -1,3 +1,4 @@
 참고도서 : 진짜쓰는 실무엑셀  
-참고강의 : https://www.youtube.com/@Oppadu
+참고강의 : https://www.youtube.com/@Oppadu  
+실무에서 필요한 엑셀 기초, 보고서 작성, 데이터 분석 및 시각화
 ![](images/2023-01-29-21-52-06.png)
