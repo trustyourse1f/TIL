@@ -1,4 +1,3 @@
-# 웹 크롤링 기초
 ## 환경 구축
 명령 프롬프트 창에서  
 pip install numpy pandas matplotlib requests lxml bs4  
