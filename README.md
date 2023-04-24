@@ -19,7 +19,7 @@
 
 ##  데이터 베이스
 * MySQL  
-  - [YOUTUBE- 얄팍한 코딩사전] 왕초보용! 갖고 노는 MySQL 데이터베이스 강좌
+  - [YouTube - 얄팍한 코딩사전] 왕초보용! 갖고 노는 MySQL 데이터베이스 강의
     - [1.1 SELECT 전반 기능 훑어보기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.1%20SELECT%20%EC%A0%84%EB%B0%98%20%EA%B8%B0%EB%8A%A5%20%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
     - [1.2 각종 연산자들](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.2%20%EA%B0%81%EC%A2%85%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4.md)
     - [1.3 숫자와 문자열을 다루는 함수들](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.3%20%EC%88%AB%EC%9E%90%EC%99%80%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%ED%95%A8%EC%88%98%EB%93%A4.md)
@@ -34,7 +34,8 @@
     - [3.4 데이터 변경, 삭제하기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/3.4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%EA%B2%BD%2C%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
 
 ## 데이터 시각화
-- Matplotlib
+- Matplotlob 
+  - [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
     1. [그래프 기본](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/01.%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EA%B8%B0%EB%B3%B8.ipynb)
     2. [축](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/02.%20%EC%B6%95.ipynb)
     3. [범례](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/03.%20%EB%B2%94%EB%A1%80.ipynb)
@@ -54,6 +55,7 @@
 
 ## 데이터 분석 & 데이터 사이언스
 * Pandas
+  * [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
     1. [Series](https://github.com/trustyourse1f/TIL/blob/master/Pandas/01.%20Series.ipynb)
     2. [DataFrame](https://github.com/trustyourse1f/TIL/blob/master/Pandas/02.%20DataFrame.ipynb)
     3. [Index](https://github.com/trustyourse1f/TIL/blob/master/Pandas/03.%20Index.ipynb)
@@ -77,7 +79,7 @@
 ## 자연어 처리(NLP)
 
 ## Git & GitHub
-- [YOUTUBE- 얄팍한 코딩사전] 제대로 파는 Git & GitHub 강의
+- [YouTube - 얄팍한 코딩사전] 제대로 파는 Git & GitHub 강의
   1. [Git 시작하기](https://github.com/trustyourse1f/TIL/tree/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
      1. [Git을 배워야 하는 이유](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/1.%20Git%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
      2. [Git 설치하기 (Windows)](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/2.%20Git%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0(Windows).md)
@@ -91,7 +93,7 @@
      3. [과거로 돌아가기](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/3.%20%EA%B3%BC%EA%B1%B0%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0(reset%2C%20revert)%20%EC%8B%A4%EC%8A%B5.md)
      4. [SourceTree로 진행해보기](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/4.%20SourceTree%EB%A1%9C%20%EC%A7%84%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
 ## Excel
-- [YOUTUBE - 오빠두엑셀] 진짜 쓰는 실무 엑셀 강의
+- [YouTube - 오빠두엑셀] 진짜 쓰는 실무 엑셀 강의
     - [Chapter 1 : 시작부터 남다른 실무자의 활용](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter1)
     - [Chapter 2 : 실무자라면 반드시 알아야 할 엑셀 활용](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter2)
     - [Chapter 3 : 보고서가 달라지는 서식 활용법](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter3)
