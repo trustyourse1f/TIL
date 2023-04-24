@@ -19,7 +19,19 @@
 
 ##  데이터 베이스
 * MySQL  
-
+  - [YOUTUBE- 얄팍한 코딩사전] 왕초보용! 갖고 노는 MySQL 데이터베이스 강좌
+    - [1.1 SELECT 전반 기능 훑어보기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.1%20SELECT%20%EC%A0%84%EB%B0%98%20%EA%B8%B0%EB%8A%A5%20%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
+    - [1.2 각종 연산자들](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.2%20%EA%B0%81%EC%A2%85%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%93%A4.md)
+    - [1.3 숫자와 문자열을 다루는 함수들](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.3%20%EC%88%AB%EC%9E%90%EC%99%80%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%ED%95%A8%EC%88%98%EB%93%A4.md)
+    - [1.4 시간, 날짜 관련 및 기타 함수들](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.4%20%EC%8B%9C%EA%B0%84%2C%20%EB%82%A0%EC%A7%9C%20%EA%B4%80%EB%A0%A8%20%EB%B0%8F%20%EA%B8%B0%ED%83%80%20%ED%95%A8%EC%88%98%EB%93%A4.md)
+    - [1.5 조건에 따라 그룹으로 묶기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/1.5%20%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EA%B7%B8%EB%A3%B9%EC%9C%BC%EB%A1%9C%20%EB%AC%B6%EA%B8%B0.md)
+    - [2.1 쿼리 안에 서브쿼리](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/2.1%20%EC%BF%BC%EB%A6%AC%20%EC%95%88%EC%97%90%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC.md)
+    - [2.2 JOIN - 여러 테이블 결합히기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/2.2%20JOIN%20-%20%EC%97%AC%EB%9F%AC%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%A1%B0%EB%A6%BD%ED%95%98%EA%B8%B0.md)
+    - [2.3 UNION - 집합으로 다루기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/2.3%20UNION%20-%20%EC%A7%91%ED%95%A9%EC%9C%BC%EB%A1%9C%20%EB%8B%A4%EB%A3%A8%EA%B8%B0.md)
+    - [3.1 MySQL 설치하기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/3.1%20MySQL%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.md)
+    - [3.2 테이블 만들고 데이터 입력하기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/3.2%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%85%EB%A0%A5%ED%95%98%EA%B8%B0.md)
+    - [3.3 자료형(+예제 데이터)](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/3.3%20%EC%9E%90%EB%A3%8C%ED%98%95(%2B%EC%98%88%EC%A0%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0).md)
+    - [3.4 데이터 변경, 삭제하기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/3.4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%EA%B2%BD%2C%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
 
 ## 데이터 시각화
 - Matplotlib
@@ -64,8 +76,20 @@
 
 ## 자연어 처리(NLP)
 
-## GIT
-
+## Git & GitHub
+- [YOUTUBE- 얄팍한 코딩사전] 제대로 파는 Git & GitHub 강의
+  1. [Git 시작하기](https://github.com/trustyourse1f/TIL/tree/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+     1. [Git을 배워야 하는 이유](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/1.%20Git%EC%9D%84%20%EB%B0%B0%EC%9B%8C%EC%95%BC%20%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md)
+     2. [Git 설치하기 (Windows)](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/2.%20Git%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0(Windows).md)
+     3. [Git 설치하기 (Mac)](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/3.%20Git%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0(Mac).md)
+     4. [CLI VS GUI 무엇을 사용해야 할까?](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/4.%20CLI%20vs%20GUI%20%EB%AC%B4%EC%97%87%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%20%ED%95%A0%EA%B9%8C%3F.md)
+     5. [Git 설정 & 프로젝트 관리 시작하기](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/5.%20Git%20%EC%84%A4%EC%A0%95%20%26%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.md)
+     6. [Git에게 맡기지 않을 것들](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/6.%20Git%EC%97%90%EA%B2%8C%20%EB%A7%A1%EA%B8%B0%EC%A7%80%20%EC%95%8A%EC%9D%84%20%EA%B2%83%EB%93%A4.md)
+  2. [시간 여행하기](https://github.com/trustyourse1f/TIL/tree/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0)
+     1. [변화를 타임캡슐에 담아 묻기(add, commit)](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/1.%20%EB%B3%80%ED%99%94%EB%A5%BC%20%ED%83%80%EC%9E%84%EC%BA%A1%EC%8A%90%EC%97%90%20%EB%8B%B4%EC%95%84%20%EB%AC%BB%EA%B8%B0(add%2C%20commit).md)
+     2. [과거로 돌아가는 두 가지 방법](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/2.%20%EA%B3%BC%EA%B1%B0%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94%20%EB%91%90%20%EA%B0%80%EC%A7%80%20%EB%B0%A9%EB%B2%95.md)
+     3. [과거로 돌아가기](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/3.%20%EA%B3%BC%EA%B1%B0%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0(reset%2C%20revert)%20%EC%8B%A4%EC%8A%B5.md)
+     4. [SourceTree로 진행해보기](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/4.%20SourceTree%EB%A1%9C%20%EC%A7%84%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
 ## Excel
 - 진짜 쓰는 실무 엑셀 실습 파일
     - [Chapter 1 : 시작부터 남다른 실무자의 활용](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter1)
