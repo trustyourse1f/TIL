@@ -91,7 +91,7 @@
      3. [과거로 돌아가기](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/3.%20%EA%B3%BC%EA%B1%B0%EB%A1%9C%20%EB%8F%8C%EC%95%84%EA%B0%80%EA%B8%B0(reset%2C%20revert)%20%EC%8B%A4%EC%8A%B5.md)
      4. [SourceTree로 진행해보기](https://github.com/trustyourse1f/TIL/blob/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/2.%20%EC%8B%9C%EA%B0%84%20%EC%97%AC%ED%96%89%ED%95%98%EA%B8%B0/4.%20SourceTree%EB%A1%9C%20%EC%A7%84%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0.md)
 ## Excel
-- 진짜 쓰는 실무 엑셀 실습 파일
+- [YOUTUBE - 오빠두엑셀] 진짜 쓰는 실무 엑셀 강의
     - [Chapter 1 : 시작부터 남다른 실무자의 활용](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter1)
     - [Chapter 2 : 실무자라면 반드시 알아야 할 엑셀 활용](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter2)
     - [Chapter 3 : 보고서가 달라지는 서식 활용법](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter3)
