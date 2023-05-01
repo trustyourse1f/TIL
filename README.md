@@ -33,9 +33,12 @@
     - [3.3 자료형(+예제 데이터)](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/3.3%20%EC%9E%90%EB%A3%8C%ED%98%95(%2B%EC%98%88%EC%A0%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0).md)
     - [3.4 데이터 변경, 삭제하기](https://github.com/trustyourse1f/TIL/blob/master/Database/%EC%99%95%EC%B4%88%EB%B3%B4%EC%9A%A9!%20%EA%B0%96%EA%B3%A0%20%EB%85%B8%EB%8A%94%20MySQL%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EA%B0%95%EC%A2%8C/3.4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%EA%B2%BD%2C%20%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0.md)
 
-## 데이터 시각화
+## 데이터 분석 & 데이터 사이언스
+### 데이터 시각화 & 분석
+- [데이터](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
+- [Numpy](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Numpy/Numpy.md)
 - Matplotlob 
-  - [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
+  - 실습 : [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
     1. [그래프 기본](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/01.%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EA%B8%B0%EB%B3%B8.ipynb)
     2. [축](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/02.%20%EC%B6%95.ipynb)
     3. [범례](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/03.%20%EB%B2%94%EB%A1%80.ipynb)
@@ -52,10 +55,8 @@
     14. [원 그래프 (심화)](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/14.%20%EC%9B%90%20%EA%B7%B8%EB%9E%98%ED%94%84%20(%EC%8B%AC%ED%99%94).ipynb)
     15. [산점도 그래프](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/15.%20%EC%82%B0%EC%A0%90%EB%8F%84%20%EA%B7%B8%EB%9E%98%ED%94%84.ipynb)
     16. [여러 그래프](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/16.%20%EC%97%AC%EB%9F%AC%20%EA%B7%B8%EB%9E%98%ED%94%84.ipynb)
-
-## 데이터 분석 & 데이터 사이언스
 * Pandas
-  * [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
+  * 실습 : [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
     1. [Series](https://github.com/trustyourse1f/TIL/blob/master/Pandas/01.%20Series.ipynb)
     2. [DataFrame](https://github.com/trustyourse1f/TIL/blob/master/Pandas/02.%20DataFrame.ipynb)
     3. [Index](https://github.com/trustyourse1f/TIL/blob/master/Pandas/03.%20Index.ipynb)
@@ -72,12 +73,24 @@
     14. [그룹화](https://github.com/trustyourse1f/TIL/blob/master/Pandas/14.%20%EA%B7%B8%EB%A3%B9%ED%99%94.ipynb)
 
   
-* 머신러닝
+### 머신러닝
 
-* 딥러닝
+### 딥러닝
 
 ## 자연어 처리(NLP)
-
+- 딥 러닝을 이용한 자연어 처리 입문  
+  1. [텍스트 전처리](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.0%20Text%20preprocessing.md)  
+  1.1 [토큰화](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.1%20Tokenization.md)  
+  1.2 [정제(cleaning)와 정규화(nomalization](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.2%20Cleaning%20and%20Normalization.md)  
+  1.3 [어간 추출(stemming)과 표제어 추출(lemmatization)](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.3%20Stemming%20and%20Lemmatizaton.md)  
+  1.4 [불용어](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.4%20Stopword.md)  
+  1.5 [정규 표현식](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.5%20Regular%20Expression.md)  
+  1.6 [정수 인코딩](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.6%20Integer%20Encoding.md)  
+  1.7 [패딩](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.7%20Padding.md)  
+  1.8 [원-핫 인코딩](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.8%20One-Hot%20Encoding.md)  
+  1.9 [데이터의 분리](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.9%20Splitting%20Data.md)  
+  1.10 [한국어 전처리 패키지](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.10%20Text%20Preprocessing%20Tools%20for%20Korean%20Texts.md)  
+  
 ## Git & GitHub
 - [YouTube - 얄팍한 코딩사전] 제대로 파는 Git & GitHub 강의
   1. [Git 시작하기](https://github.com/trustyourse1f/TIL/tree/master/Git/%EC%A0%9C%EB%8C%80%EB%A1%9C%20%ED%8C%8C%EB%8A%94%20Git%20%26%20GitHub/1.%20Git%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
@@ -115,3 +128,6 @@
     - [Chapter 6 : 데이터 자동화 및 분석을 위한 표 & 피벗 테이블](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter6)
     - [Chapter 7 : 엑셀 활용의 10%를 채워 줄 기본 & 필수 함수 익히기](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter7)
     - [Chapter 8 : 실무에서 필요한 데이터 시각화의 모든 것](https://github.com/trustyourse1f/TIL/tree/master/Excel/Chapter8)
+
+## 기초 통계학
+- [[YouTube - 메티코드M] 쉽게 배우는 통계 입문](https://github.com/trustyourse1f/TIL/tree/master/Basic_Statistics)
