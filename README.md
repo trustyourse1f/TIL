@@ -16,7 +16,15 @@
 12. [파일 입출력, 예외처리](https://github.com/trustyourse1f/TIL/blob/master/Python/12.%ED%8C%8C%EC%9D%BC%20%EC%9E%85%EC%B6%9C%EB%A0%A5%2C%20%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
 
 ## 데이터 수집
-
+- 실습 : [Youtube - 나도코딩] 파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! 제가 가진 모든 비법을 알려드리겠습니다. 강의  
+    - [1. requests](https://github.com/trustyourse1f/TIL/blob/master/Webscraping_basic/1_requests.py)
+    - [2. bs4](https://github.com/trustyourse1f/TIL/blob/master/Webscraping_basic/2_bs4.py)
+    - [3. bs4_weebtoons](https://github.com/trustyourse1f/TIL/blob/master/Webscraping_basic/3_bs4_webtoons.py)
+    - [4. bs4_sudh](https://github.com/trustyourse1f/TIL/blob/master/Webscraping_basic/4_bs4_sudh.py)
+    - [5. bs4_coupang](https://github.com/trustyourse1f/TIL/blob/master/Webscraping_basic/5_bs4_coupang.py)
+    - [6. csv_stock](https://github.com/trustyourse1f/TIL/blob/master/Webscraping_basic/6_csv_stock.py)
+    - [7. selenium](https://github.com/trustyourse1f/TIL/blob/master/Webscraping_basic/7_selenium.py)
+  
 ##  데이터 베이스
 * MySQL  
   - [YouTube - 얄팍한 코딩사전] 왕초보용! 갖고 노는 MySQL 데이터베이스 강의
