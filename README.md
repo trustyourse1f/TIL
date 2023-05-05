@@ -35,9 +35,9 @@
 
 ## 데이터 분석 & 데이터 사이언스
 ### 데이터 시각화 & 분석
-- [데이터](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
-- [Numpy](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Numpy/Numpy.md)
-- Matplotlob 
+#### [데이터](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
+#### [Numpy](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Numpy/Numpy.md)
+#### Matplotlob 
   - 실습 : [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
     1. [그래프 기본](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/01.%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EA%B8%B0%EB%B3%B8.ipynb)
     2. [축](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/02.%20%EC%B6%95.ipynb)
@@ -55,7 +55,7 @@
     14. [원 그래프 (심화)](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/14.%20%EC%9B%90%20%EA%B7%B8%EB%9E%98%ED%94%84%20(%EC%8B%AC%ED%99%94).ipynb)
     15. [산점도 그래프](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/15.%20%EC%82%B0%EC%A0%90%EB%8F%84%20%EA%B7%B8%EB%9E%98%ED%94%84.ipynb)
     16. [여러 그래프](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Matplotlib/16.%20%EC%97%AC%EB%9F%AC%20%EA%B7%B8%EB%9E%98%ED%94%84.ipynb)
-* Pandas
+#### [Pandas](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Pandas/Pandas.md)
   * 실습 : [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
     1. [Series](https://github.com/trustyourse1f/TIL/blob/master/Pandas/01.%20Series.ipynb)
     2. [DataFrame](https://github.com/trustyourse1f/TIL/blob/master/Pandas/02.%20DataFrame.ipynb)
