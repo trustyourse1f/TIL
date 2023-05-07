@@ -43,32 +43,16 @@
 
 ## 데이터 분석 & 데이터 사이언스
 ### 데이터 시각화 & 분석
-#### [데이터](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
-#### [Numpy](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Numpy/Numpy.md)
-#### Matplotlob 
-#### [Pandas](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Pandas/Pandas.md)
-  * 실습 : [Youtube - 나도코딩] 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 강의
-    1. [Series](https://github.com/trustyourse1f/TIL/blob/master/Pandas/01.%20Series.ipynb)
-    2. [DataFrame](https://github.com/trustyourse1f/TIL/blob/master/Pandas/02.%20DataFrame.ipynb)
-    3. [Index](https://github.com/trustyourse1f/TIL/blob/master/Pandas/03.%20Index.ipynb)
-    4. [파일 저장 및 열기](https://github.com/trustyourse1f/TIL/blob/master/Pandas/04.%20%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5%20%EB%B0%8F%20%EC%97%B4%EA%B8%B0.ipynb)
-    5. [데이터 확인](https://github.com/trustyourse1f/TIL/blob/master/Pandas/05.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%95%EC%9D%B8.ipynb)
-    6. [데이터 선택(기본)](https://github.com/trustyourse1f/TIL/blob/master/Pandas/06.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%A0%ED%83%9D%20(%EA%B8%B0%EB%B3%B8).ipynb)
-    7. [데이터 선택(loc](https://github.com/trustyourse1f/TIL/blob/master/Pandas/07.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%A0%ED%83%9D%20(loc).ipynb)
-    8. [데이터 선택(iloc)](https://github.com/trustyourse1f/TIL/blob/master/Pandas/08.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%A0%ED%83%9D%20(iloc).ipynb)
-    9. [데이터 선택(조건)](https://github.com/trustyourse1f/TIL/blob/master/Pandas/09.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%84%A0%ED%83%9D%20(%EC%A1%B0%EA%B1%B4).ipynb)
-    10. [결측치](https://github.com/trustyourse1f/TIL/blob/master/Pandas/10.%20%EA%B2%B0%EC%B8%A1%EC%B9%98.ipynb)
-    11. [데이터 정렬](https://github.com/trustyourse1f/TIL/blob/master/Pandas/11.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EB%A0%AC.ipynb)
-    12. [데이터 수정](https://github.com/trustyourse1f/TIL/blob/master/Pandas/12.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A0%95.ipynb)
-    13. [함수 적용](https://github.com/trustyourse1f/TIL/blob/master/Pandas/13.%20%ED%95%A8%EC%88%98%20%EC%A0%81%EC%9A%A9.ipynb)
-    14. [그룹화](https://github.com/trustyourse1f/TIL/blob/master/Pandas/14.%20%EA%B7%B8%EB%A3%B9%ED%99%94.ipynb)
-
+- [데이터](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/%EB%8D%B0%EC%9D%B4%ED%84%B0.md)
+- [Numpy](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Numpy/Numpy.md)
+- [Matplotlib](https://github.com/trustyourse1f/TIL/tree/master/Data_Visualization/Matplotlib) 
+- [Pandas](https://github.com/trustyourse1f/TIL/blob/master/Data_Visualization/Pandas/Pandas.md)
   
 ### 머신러닝
 
 ### 딥러닝
 
-## 자연어 처리(NLP)
+### 자연어 처리(NLP)
 - 딥 러닝을 이용한 자연어 처리 입문  
   1. [텍스트 전처리](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.0%20Text%20preprocessing.md)  
   1.1 [토큰화](https://github.com/trustyourse1f/TIL/blob/master/NLP/1.1%20Tokenization.md)  
