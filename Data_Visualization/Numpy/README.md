@@ -1,0 +1,12 @@
+# NumPy
+참고 자료 : NumPy Tutorial (https://codetorial.net/numpy/index.html)
+- [1. NumPy - 수학/과학 연산을 위한 파이썬 패키지]()  
+- [2. NumPy 기초]()  
+- [3. NumPy 어레이 만들기]()  
+- [4. NumPy 어레이 출력하기]()  
+- [5. NumPy 기본 연산]()
+- [6. NumPy 범용 함수 (ufunc)]()
+- [7. NumPy 인덱싱/슬라이싱/이터레이팅]()
+- [8. NumPy 어레이 형태 다루기]()
+- [9. NumPy 난수 생성]()
+- [10. NumPy 다양한 함수들]()
