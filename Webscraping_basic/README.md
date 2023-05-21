@@ -1,3 +1,29 @@
+<!-- TOC -->
+
+- [환경 구축](#%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
+- [웹 크롤링과 스크레이핑](#%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81%EA%B3%BC-%EC%8A%A4%ED%81%AC%EB%A0%88%EC%9D%B4%ED%95%91)
+    - [크롤링](#%ED%81%AC%EB%A1%A4%EB%A7%81)
+    - [스크레이핑](#%EC%8A%A4%ED%81%AC%EB%A0%88%EC%9D%B4%ED%95%91)
+    - [웹 크롤링](#%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81)
+    - [웹 크롤러](#%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AC)
+- [웹](#%EC%9B%B9)
+    - [웹 서버 Web Server](#%EC%9B%B9-%EC%84%9C%EB%B2%84-web-server)
+    - [클라이언트](#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8)
+    - [HTTP](#http)
+    - [URL](#url)
+    - [HTTP 매서드](#http-%EB%A7%A4%EC%84%9C%EB%93%9C)
+        - [GET](#get)
+        - [POST](#post)
+        - [요청패킷](#%EC%9A%94%EC%B2%AD%ED%8C%A8%ED%82%B7)
+        - [응답패킷](#%EC%9D%91%EB%8B%B5%ED%8C%A8%ED%82%B7)
+    - [요청패킷 vs 응답패킷](#%EC%9A%94%EC%B2%AD%ED%8C%A8%ED%82%B7-vs-%EC%9D%91%EB%8B%B5%ED%8C%A8%ED%82%B7)
+    - [Header란?](#header%EB%9E%80)
+    - [Body란?](#body%EB%9E%80)
+- [HTML](#html)
+- [JSON](#json)
+
+<!-- /TOC -->
+
 ## 환경 구축
 명령 프롬프트 창에서  
 pip install numpy pandas matplotlib requests lxml bs4  
